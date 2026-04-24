@@ -1,0 +1,21 @@
+[
+    {
+        "verb": "x out",
+        "descriptions": [
+            "to cross something out, delete it, or close something on a screen"
+        ],
+        "examples": [
+            "Please x out the incorrect answer.",
+            "I accidentally x’d out the window."
+        ],
+        "synonyms": [
+            "delete",
+            "cross out",
+            "close"
+        ],
+        "highlighted_examples": [
+            "Please [x out] the incorrect answer.",
+            "I accidentally [x] [out] the window."
+        ]
+    }
+]

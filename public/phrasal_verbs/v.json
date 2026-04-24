@@ -1,0 +1,60 @@
+[
+  {
+    "verb": "visit on",
+    "descriptions": [
+      "to make something very unpleasant happen to someone"
+    ],
+    "examples": [
+      "Violence was relentlessly visited upon innocent victims."
+    ],
+    "highlighted_examples": [
+      "Violence was relentlessly [visited] upon innocent victims."
+    ]
+  },
+  {
+    "verb": "vote in",
+    "descriptions": [
+      "to give a person or political party a position of power by voting"
+    ],
+    "examples": [
+      "'Would you consider changing your vote in order to... simplify... to simplify... Dr Moon!",
+      "We’re the ones who voted him into office.",
+      "Would people be willing to vote the Tories in again?"
+    ],
+    "synonyms": [
+      "appoint",
+      "choose",
+      "elect",
+      "select"
+    ],
+    "highlighted_examples": [
+      "'Would you consider changing your [vote] [in] order to... simplify... to simplify... Dr Moon!",
+      "We’re the ones who [voted] him into office.",
+      "Would people be willing to [vote] the Tories [in] again?"
+    ]
+  },
+  {
+    "verb": "vote off",
+    "descriptions": [
+      "to remove someone from a position on something such as a committee by voting"
+    ],
+    "examples": [
+      "They’ve voted him off the board."
+    ],
+    "highlighted_examples": [
+      "They’ve [voted] him [off] the board."
+    ]
+  },
+  {
+    "verb": "vote through",
+    "descriptions": [
+      "to make something accepted officially by voting"
+    ],
+    "examples": [
+      "We need to get the budget voted through."
+    ],
+    "highlighted_examples": [
+      "We need to get the budget [voted] [through]."
+    ]
+  }
+]

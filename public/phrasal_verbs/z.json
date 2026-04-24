@@ -1,0 +1,119 @@
+[
+  {
+    "verb": "zero in on",
+    "descriptions": [
+      "to aim at someone or something with a gun or camera",
+      "to start to give all your attention to a particular person or thing"
+    ],
+    "examples": [
+      "The newspapers have zeroed in on his private life.",
+      "They can help us zero in on problems that otherwise might not be found."
+    ],
+    "synonyms": [
+      "concentrate on",
+      "focus on",
+      "home in on",
+      "pinpoint"
+    ],
+    "highlighted_examples": [
+      "The newspapers have [zeroed] [in] [on] his private life.",
+      "They can help us [zero] [in] [on] problems that otherwise might not be found."
+    ]
+  },
+  {
+    "verb": "zip through",
+    "descriptions": [
+      "to deal with or complete something very quickly"
+    ],
+    "examples": [
+      "I zipped through the first three questions in ten minutes."
+    ],
+    "highlighted_examples": [
+      "I [zipped] [through] the first three questions in ten minutes."
+    ]
+  },
+  {
+    "verb": "zip up",
+    "descriptions": [
+      "to be closed by means of a zip",
+      "to close a zip on a piece of clothing for someone",
+      "to close something that has a zip"
+    ],
+    "examples": [
+      "Do you want me to zip you up?",
+      "He's zipped up in a body bag, taken down to the mortuary and that's that, leaving his distraught colleagues determined to avenge his death.",
+      "It zips up at the back.",
+      "It's why their hoods are zipped up.",
+      "She tries to zip up his suit to hide the offending hair but can only manage a couple of centimetres.",
+      "She zipped up her dress."
+    ],
+    "highlighted_examples": [
+      "Do you want me to [zip] you [up]?",
+      "He's [zipped] [up] in a body bag, taken down to the mortuary and that's that, leaving his distraught colleagues determined to avenge his death.",
+      "It [zips] [up] at the back.",
+      "It's why their hoods are [zipped] [up].",
+      "She tries to [zip] [up] his suit to hide the offending hair but can only manage a couple of centimetres.",
+      "She [zipped] [up] her dress."
+    ]
+  },
+  {
+    "verb": "zone out",
+    "descriptions": [
+      "to stop paying attention and become unaware of what is happening around you",
+      "to mentally disconnect or daydream"
+    ],
+    "examples": [
+      "I tend to zone out during long meetings.",
+      "He zoned out and missed what the teacher said."
+    ],
+    "synonyms": [
+      "daydream",
+      "drift off",
+      "lose focus"
+    ],
+    "highlighted_examples": [
+      "I tend to [zone] [out] during long meetings.",
+      "He [zoned] [out] and missed what the teacher said."
+    ]
+  },
+  {
+    "verb": "zoom in",
+    "descriptions": [
+      "to make something appear larger or closer, especially on a screen",
+      "to focus closely on a detail"
+    ],
+    "examples": [
+      "You can zoom in to see the details more clearly.",
+      "The camera zoomed in on her face."
+    ],
+    "synonyms": [
+      "magnify",
+      "enlarge",
+      "focus on"
+    ],
+    "highlighted_examples": [
+      "You can [zoom] [in] to see the details more clearly.",
+      "The camera [zoomed] [in] on her face."
+    ]
+  },
+  {
+    "verb": "zoom out",
+    "descriptions": [
+      "to make something appear smaller or further away on a screen",
+      "to consider a situation more broadly"
+    ],
+    "examples": [
+      "Zoom out to see the entire map.",
+      "Sometimes you need to zoom out and look at the bigger picture."
+    ],
+    "synonyms": [
+      "reduce",
+      "broaden perspective",
+      "pull back"
+    ],
+    "highlighted_examples": [
+      "Zoom [out] to see the entire map.",
+      "Sometimes you need to [zoom] [out] and look at the bigger picture."
+    ]
+  }
+]

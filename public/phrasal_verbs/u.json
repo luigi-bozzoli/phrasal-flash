@@ -1,0 +1,50 @@
+[
+  {
+    "verb": "urge on",
+    "descriptions": [
+      "to encourage someone to put more effort into something or to not stop trying to do something"
+    ],
+    "examples": [
+      "James’ father urged him on from the side of the court."
+    ],
+    "synonyms": [
+      "drive on",
+      "encourage",
+      "force",
+      "push"
+    ],
+    "highlighted_examples": [
+      "James’ father [urged] him [on] from the side of the court."
+    ]
+  },
+  {
+    "verb": "use up",
+    "descriptions": [
+      "to use all of a supply of something"
+    ],
+    "examples": [
+      "I’ve used up all my holiday entitlement, and it’s only August."
+    ],
+    "highlighted_examples": [
+      "I’ve [used] [up] all my holiday entitlement, and it’s only August."
+    ]
+  },
+  {
+    "verb": "usher in",
+    "descriptions": [
+      "to make an activity or process begin"
+    ],
+    "examples": [
+      "The talks ushered in a new era of international co-operation."
+    ],
+    "synonyms": [
+      "bring in",
+      "introduce",
+      "launch",
+      "precede"
+    ],
+    "highlighted_examples": [
+      "The talks [ushered] [in] a new era of international co-operation."
+    ]
+  }
+]
