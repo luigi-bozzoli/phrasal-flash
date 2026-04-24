@@ -10,7 +10,7 @@ interface FlashcardViewProps {
     dataBasePath?: string;
 }
 
-export function FlashcardView({ dataBasePath = "/phrasal_verbs" }: FlashcardViewProps) {
+export function FlashcardView({ dataBasePath = `${import.meta.env.BASE_URL}/phrasal_verbs` }: FlashcardViewProps) {
 
     const [activeLetter, setActiveLetter] = useState<string>("A");
     const [currentIndex, setCurrentIndex] = useState(0);

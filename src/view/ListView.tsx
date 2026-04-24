@@ -9,7 +9,7 @@ interface ListViewProps {
     dataBasePath?: string;
 }
 
-export function ListView({ dataBasePath = "/phrasal_verbs" }: ListViewProps) {
+export function ListView({ dataBasePath = `${import.meta.env.BASE_URL}/phrasal_verbs` }: ListViewProps) {
     const [activeLetter, setActiveLetter] = useState<string | null>("A");
     const [verbs, setVerbs] = useState<PhrasalVerb[]>([]);
     const [loading, setLoading] = useState(false);
