@@ -32,7 +32,7 @@ export function FlashCard({ verb, isFlipped, onFlip }: FlashcardProps) {
                     <span className="text-xs font-medium uppercase tracking-widest text-muted-foreground">
                         phrasal verb
                     </span>
-                    <span className="font-serif text-4xl text-foreground sm:text-5xl">
+                    <span className="font-serif text-center text-4xl text-foreground sm:text-5xl">
                         {verb.verb}
                     </span>
                     <span className="text-xs text-muted-foreground/60">
@@ -53,12 +53,12 @@ export function FlashCard({ verb, isFlipped, onFlip }: FlashcardProps) {
                     </span>
                     <p className="text-center text-base font-medium leading-snug text-foreground sm:text-lg">
                         {verb.descriptions.length
-                            ? verb.descriptions[Math.floor(Math.random() * verb.descriptions.length)]
+                            ? verb.descriptions[0]
                             : null}
                     </p>
                     <p className="w-full rounded-lg bg-muted px-4 py-2.5 text-center text-sm italic leading-relaxed text-muted-foreground">
                         {verb.examples.length
-                            ? <HighlightedExample text={verb.highlighted_examples[Math.floor(Math.random() * verb.examples.length)]}></HighlightedExample>
+                            ? <HighlightedExample text={verb.highlighted_examples[0]}></HighlightedExample>
                             : null}
                     </p>
                 </Card>
